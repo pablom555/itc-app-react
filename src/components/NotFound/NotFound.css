@@ -1,0 +1,17 @@
+.NotFound_Cont {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.NotFound_Text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.NotFound_Image {
+    height: 200px;
+    margin-top: 40px;
+}
+
